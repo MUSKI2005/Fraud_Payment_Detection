@@ -1,0 +1,15 @@
+<!-- Structure of the PROJECT -->
+project/
+│
+├── templates/
+│   ├── index.html
+│   └── result.html
+│
+├── static/
+│   └── styles.css        # CSS file here
+│
+├── app.py                # Flask backend
+├── fraud_model.pkl
+├── data_preprocessing.ipynb
+├── model_training.ipynb
+└── requirements.txt
